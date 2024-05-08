@@ -4,7 +4,7 @@
 This Python script uses the YOLO (You Only Look Once) real-time object detection system to detect vehicles in a video.
 
 # YOLO classifier
-The YOLO classifier used in this file was used from https://github.com/ultralytics/ultralytics 
+The YOLO classifier used in this file is yolo version 8 classifiers for vehicles used from https://github.com/ultralytics/ultralytics 
 
 ## Dependencies
 
