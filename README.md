@@ -1,6 +1,5 @@
 # Vehicle-detection-using-YOLO-classifier
 
-# Vehicle Detection using YOLO
 
 This Python script uses the YOLO (You Only Look Once) real-time object detection system to detect vehicles in a video.
 
